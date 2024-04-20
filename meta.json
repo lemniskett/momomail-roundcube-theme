@@ -1,0 +1,21 @@
+{
+	"name": "Blue Archive",
+	"author": "Syahrial Agni Prasetya",
+	"license": "Creative Commons Attribution-ShareAlike",
+	"license-url": "http://creativecommons.org/licenses/by-sa/3.0/",
+	"config": {
+		"supported_layouts": ["widescreen"],
+		"jquery_ui_colors_theme": "bootstrap",
+		"embed_css_location": "/styles/embed.css",
+		"editor_css_location": "/styles/embed.css",
+		"dark_mode_support": true,
+		"media_browser_css_location": "none",
+		"additional_logo_types": ["small"],
+		"dark_mode_support": false
+	},
+	"meta": {
+		"viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, maximum-scale=1.0",
+		"theme-color": "#128afa",
+		"msapplication-navbutton-color": "#128afa"
+	}
+}
